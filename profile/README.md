@@ -4,11 +4,11 @@
 
 ## Nodal Core
 
-[Nodal Core](nodal-core) is a Java wrapper around Wireguard components, currently focusing on 3 main desktop operating systems, Windows, MacOS and Linux. The library contains everything needed to create and manage a VPN  peer, either for clients, or servers, or any other mode of operation.
+[Nodal Core](/Nodal-VPN/nodal-core) is a Java wrapper around Wireguard components, currently focusing on 3 main desktop operating systems, Windows, MacOS and Linux. The library contains everything needed to create and manage a VPN  peer, either for clients, or servers, or any other mode of operation.
 
 ## Nodal VPN Client
 
-[Nodal VPN Client](nodal-vpn-client) is a specially made user-oriented VPN client, designed to get the best out of Nodal VPN. Like all other parts of Nodal VPN, it is self-updating, and easy to use. It help supports MFA for your VPN users, provides a convenient tray icon and status notifications.
+[Nodal VPN Client](/Nodal-VPN/nodal-vpn-client) is a specially made user-oriented VPN client, designed to get the best out of Nodal VPN. Like all other parts of Nodal VPN, it is self-updating, and easy to use. It help supports MFA for your VPN users, provides a convenient tray icon and status notifications.
 
 ## More
 
