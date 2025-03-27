@@ -8,7 +8,7 @@
 
 ## Nodal VPN Client
 
-**Nodal VPN Client** is a specially made user-oriented VPN client, designed to get the best out of Nodal VPN. Like all other parts of Nodal VPN, it is self-updating, and easy to use. It help supports MFA for your VPN users, and provides a convenient tray icon on all operating systemms that stays out of the way.
+**Nodal VPN Client** is a specially made user-oriented VPN client, designed to get the best out of Nodal VPN. Like all other parts of Nodal VPN, it is self-updating, and easy to use. It help supports MFA for your VPN users, provides a convenient tray icon and status notifications.
 
 ## More
 
